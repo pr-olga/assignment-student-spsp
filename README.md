@@ -3,7 +3,8 @@
 Build a simple **php application** that gets data from the DB (dump is in this repo) and displays it.
 Finished app must contain:
   1. start page where the articles are listed
-  2. separated/single article pages 
+  2. separated/single article pages
+   
 Every article on the startpage must be clickable and lead to the separated/single article page.
 
 ## Requirements
