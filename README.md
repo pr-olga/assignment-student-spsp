@@ -49,7 +49,7 @@ Every article on the startpage must be clickable and lead to the separated/singl
         sudo systemctl restart apache2.service #restart apache
     ```
     
-    4. Create a new folder named blog-spsp in /var/www/html to store php files.
+    4. Create a new folder named blog-spsp in /var/www/html to store your project files.
     5. Put the file info.php in this folder
     6. Call http://localhost/blog-spsp/info.php in order to see that everythig works (later you can delete it)
     7. Now you can establish connection to DB and start to develop
